@@ -12,24 +12,7 @@ h1 {
 h2 {
   font-size: 130%;
 }
-p {
-  color: maroon;
-}
-em{
-  font-family: serif;
-}
-p.greentea {
-  color: green;
-}
-p.raspberry {
-  color: blue;
-}
-p.blueberry {
-  color: purple;
-}
-p.sepcial {
-  color: red;
-}
+
 #guarantee {
   font-family: Georgia, 'Times New Roman', Times, serif;
   color: #444;
