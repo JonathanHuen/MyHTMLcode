@@ -87,3 +87,27 @@ div#tableRow {
 #headerSlogan {
   float:            right;
 }
+
+#award {
+  position:         absolute;
+  top:              30px;
+  left:             365px;
+}
+
+#drinks {
+  display:          table-cell;
+  background:       #efe5d0 url(images/background.gif) top left;
+  font-size:        105%;
+  padding:          15px;
+  vertical-align:   top;
+}
+
+#coupon {
+  position:         fixed;
+  top:              350px;
+  left:             -90px;
+}
+
+#coupon a, img {
+  border:            none;
+}
